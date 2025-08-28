@@ -15,6 +15,14 @@
       "bairro": "Centro",
       "nome": "Assembleia de Deus Cristina Mendes",
       "imagemUrl": "https://raw.githubusercontent.com/will3308/dados-igrejas/main/images/1756422696154-igreja.jpg?token=A3BBZJICZ4RT2CDKPHOOV6DIWDRGC"
+    },
+    {
+      "cidade": "Alfenas",
+      "bairro": "Cerntro",
+      "nome": "Assembleia de deus",
+      "imagensUrls": [
+        "https://raw.githubusercontent.com/will3308/dados-igrejas/main/images/1756423518175-igreja.jpg?token=A3BBZJPWVVKOTZTRIGH6XQ3IWDSZO"
+      ]
     }
   ],
   "itens": [
