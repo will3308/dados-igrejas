@@ -60,10 +60,17 @@
     {
       "igrejaId": 5,
       "nome": "Cadeira Azul",
-      "quantidade": 2,
+      "quantidade": 1,
       "ids": [
-        "100",
         "101"
+      ]
+    },
+    {
+      "igrejaId": 4,
+      "nome": "Cadeira Azul",
+      "quantidade": 1,
+      "ids": [
+        "100"
       ]
     }
   ]
