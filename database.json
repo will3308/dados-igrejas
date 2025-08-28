@@ -3,7 +3,8 @@
     {
       "cidade": "Alfenas",
       "bairro": "Centro",
-      "nome": "Assembleia De Deus Tiradentes"
+      "nome": "Assembleia De Deus Tiradentes",
+      "imagensUrls": []
     },
     {
       "cidade": "Alterosa",
