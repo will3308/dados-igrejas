@@ -56,6 +56,15 @@
       "ids": [
         "1001"
       ]
+    },
+    {
+      "igrejaId": 5,
+      "nome": "Cadeira Azul",
+      "quantidade": 2,
+      "ids": [
+        "100",
+        "101"
+      ]
     }
   ]
 }
