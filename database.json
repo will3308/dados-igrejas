@@ -25,6 +25,14 @@
       "ids": [
         "3005"
       ]
+    },
+    {
+      "igrejaId": 2,
+      "nome": "Cadeira",
+      "quantidade": 1,
+      "ids": [
+        "1001"
+      ]
     }
   ]
 }
