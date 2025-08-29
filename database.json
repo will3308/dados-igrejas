@@ -1,0 +1,13 @@
+{
+  "igrejas": [
+    {
+      "cidade": "teste",
+      "bairro": "teste",
+      "nome": "teste",
+      "imagensUrls": [
+        "https://raw.githubusercontent.com/will3308/dados-igrejas/main/images/1756425928729-igreja.jpg?token=A3BBZJOPRWPZPAPRXF3UCADIWDXQE"
+      ]
+    }
+  ],
+  "itens": []
+}
