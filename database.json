@@ -1,0 +1,13 @@
+{
+  "igrejas": [
+    {
+      "cidade": "Alfenas",
+      "bairro": "Centro",
+      "nome": "Assembleia de Deus Tiradentes",
+      "imagensUrls": [
+        "https://raw.githubusercontent.com/will3308/dados-igrejas/main/images/1757027585332-20D-001.jpg?token=A3BBZJJJRMQOFJ67AM2DQC3IXIORS"
+      ]
+    }
+  ],
+  "itens": []
+}
