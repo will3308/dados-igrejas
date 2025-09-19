@@ -65,11 +65,10 @@
     {
       "igrejaId": 0,
       "nome": "BANCOS DE MADEIRA",
-      "quantidade": 20,
+      "quantidade": 19,
       "ids": [
         "0001",
         "0002",
-        "0003",
         "0004",
         "0005",
         "0006",
@@ -97,6 +96,14 @@
         "0021",
         "0022",
         "0023"
+      ]
+    },
+    {
+      "igrejaId": 6,
+      "nome": "BANCOS DE MADEIRA",
+      "quantidade": 1,
+      "ids": [
+        "0003"
       ]
     }
   ]
