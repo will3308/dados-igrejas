@@ -88,6 +88,16 @@
         "0019",
         "0020"
       ]
+    },
+    {
+      "igrejaId": 0,
+      "nome": "AR CONDICIONADO",
+      "quantidade": 3,
+      "ids": [
+        "0021",
+        "0022",
+        "0023"
+      ]
     }
   ]
 }
