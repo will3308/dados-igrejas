@@ -67,11 +67,6 @@
       "imagensUrls": [
         "https://raw.githubusercontent.com/will3308/dados-igrejas/main/images/1758490305451-todas-036.JPG"
       ]
-    },
-    {
-      "id": "1",
-      "nome": "teste",
-      "itens": []
     }
   ],
   "itens": [
@@ -149,8 +144,9 @@
       ]
     }
   ],
-  "_sha": "12f45e93de8843b682bd0a2f318c03d1519bbfdc",
+  "_sha": "de5bd3256dc7fb713063877fc90c7bac0d9d5fa4",
   "_lastOps": [
+    "[15/11/2025, 16:04:18] Removida igreja teste (1)",
     "[15/11/2025, 15:59:26] Adicionado igreja teste (1)"
   ]
 }
