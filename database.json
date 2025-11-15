@@ -83,7 +83,7 @@
         {
           "id": "001,002,003",
           "nome": "banco",
-          "quantidade": 3,
+          "quantidade": 2,
           "imagens": [
             "images/1763231649799_igreja_mi0mj8pswyck_001,002,003_0.png",
             "images/1763231651108_igreja_mi0mj8pswyck_001,002,003_1.png"
@@ -94,7 +94,17 @@
     {
       "id": "igreja_mi0mkczkit2h",
       "nome": "testando2",
-      "itens": []
+      "itens": [
+        {
+          "id": "001,002,003",
+          "nome": "banco",
+          "quantidade": 1,
+          "imagens": [
+            "images/1763231649799_igreja_mi0mj8pswyck_001,002,003_0.png",
+            "images/1763231651108_igreja_mi0mj8pswyck_001,002,003_1.png"
+          ]
+        }
+      ]
     }
   ],
   "itens": [
@@ -172,8 +182,9 @@
       ]
     }
   ],
-  "_sha": "dff6e62712f1d794228e3979a32600ddd7d30233",
+  "_sha": "ffa36c72bedc7e95c860a09339a7203f61e0123b",
   "_lastOps": [
+    "[15/11/2025, 15:34:45] Transferido 1 x banco de Testando Igreja para testando2",
     "[15/11/2025, 15:34:12] Adicionado item banco (001,002,003) em Testando Igreja",
     "[15/11/2025, 15:33:13] Adicionado igreja testando2 (igreja_mi0mkczkit2h)",
     "[15/11/2025, 15:32:42] Adicionado item dqdqwd (item_mi0mjnu03hpv) em Testando Igreja",
