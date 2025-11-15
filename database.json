@@ -33,7 +33,6 @@
             "0020"
           ],
           "imagens": [
-            "images/1763234477223_igreja_m1_item_m1_1_1.png",
             "images/1763234478298_igreja_m1_item_m1_1_2.jpg"
           ]
         },
@@ -152,8 +151,9 @@
       "itens": []
     }
   ],
-  "_sha": "a8bd2a21e0f2684b11cb5625aef2484c5f5cb357",
+  "_sha": "9b2ceb6d2759c34f99782ad1b0c9154e8f5163b6",
   "_lastOps": [
+    "[15/11/2025, 16:44:09] Removida imagem images/1763234477223_igreja_m1_item_m1_1_1.png do item item_m1_1",
     "[15/11/2025, 16:44:01] Removida imagem images/1763234476218_igreja_m1_item_m1_1_0.png do item item_m1_1",
     "[15/11/2025, 16:21:19] Enviada imagem images/1763234478298_igreja_m1_item_m1_1_2.jpg",
     "[15/11/2025, 16:21:18] Enviada imagem images/1763234477223_igreja_m1_item_m1_1_1.png",
