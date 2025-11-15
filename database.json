@@ -1,73 +1,155 @@
 {
   "igrejas": [
     {
+      "id": "igreja_m1",
+      "nome": "ASSEMBLEIA DE DEUS - MISSÃO - SEDE",
       "cidade": "ALFENAS",
       "bairro": "CENTRO",
-      "nome": "ASSEMBLEIA DE DEUS - MISSÃÂO - SEDE",
-      "imagensUrls": []
-    },
-    {
-      "cidade": "ALFENAS",
-      "bairro": "JARDIM EUNICE",
-      "nome": "ASSEMBLEIA DE DEUS - CONGREGAÃÂÃÂO JARDIM EUNICE",
-      "imagensUrls": []
-    },
-    {
-      "cidade": "ALFENAS",
-      "bairro": "GASPAR LOPES",
-      "nome": "ASSEMBLEIA DE DEUS - CONGREGAÃÂÃÂO GASPAR LOPES",
-      "imagensUrls": []
-    },
-    {
-      "cidade": "ALFENAS",
-      "bairro": "PINHEIRNHO",
-      "nome": "ASSEMBLEIA DE DEUS - CONGREGAÃÂÃÂO PINHEIRINHO",
-      "imagensUrls": []
-    },
-    {
-      "cidade": "DIVISA NOVA",
-      "bairro": "CENTRO",
-      "nome": "ASSEMBLEIA DE DEUS - MISSÃÂO",
-      "imagensUrls": []
-    },
-    {
-      "cidade": "SERRANIA",
-      "bairro": "CENTRO",
-      "nome": "ASSEMBLEIA DE DEUS - MISSÃÂO - SEDE",
-      "imagensUrls": []
-    },
-    {
-      "cidade": "SERRANIA",
-      "bairro": "SANTO ANTÃÂNIO",
-      "nome": "ASSEMBLEIA DE DEUS - CONGREGAÃÂÃÂO SANTO ANTÃÂNIO",
-      "imagensUrls": []
-    },
-    {
-      "cidade": "SERRANIA",
-      "bairro": "SERRINHA",
-      "nome": "ASSEMBLEIA DE DEUS - BAIRRO SERRINHA",
-      "imagensUrls": []
-    },
-    {
-      "cidade": "MACHADO",
-      "bairro": "JARDIM DAS OLIVEIRAS",
-      "nome": "ASSEMBLEIA DE DEUS - MISSÃÂO",
-      "imagensUrls": []
-    },
-    {
-      "cidade": "ALFENAS",
-      "bairro": "VISTA GRANDE",
-      "nome": "ASSEMBLEIA DE DEUS - CONGREGAÃÂÃÂO VISTA GRANDE",
-      "imagensUrls": []
-    },
-    {
-      "cidade": "ALFENAS",
-      "bairro": "ASSEMBLEIA DE DEUS",
-      "nome": "ASSEMBLEIA DE DEUS",
-      "imagensUrls": [
-        "https://raw.githubusercontent.com/will3308/dados-igrejas/main/images/1758490305451-todas-036.JPG"
+      "imagens": [],
+      "itens": [
+        {
+          "id": "item_m1_1",
+          "nome": "BANCOS DE MADEIRA",
+          "quantidade": 19,
+          "ids_individuais": ["0001","0002","0004","0005","0006","0007","0008","0009","0010","0011","0012","0013","0014","0015","0016","0017","0018","0019","0020"],
+          "imagens": []
+        },
+        {
+          "id": "item_m1_2",
+          "nome": "AR CONDICIONADO",
+          "quantidade": 2,
+          "ids_individuais": ["0021","0023"],
+          "imagens": []
+        }
       ]
     },
+    {
+      "id": "igreja_m2",
+      "nome": "ASSEMBLEIA DE DEUS - CONGREGAÇÃO JARDIM EUNICE",
+      "cidade": "ALFENAS",
+      "bairro": "JARDIM EUNICE",
+      "imagens": [],
+      "itens": []
+    },
+    {
+      "id": "igreja_m3",
+      "nome": "ASSEMBLEIA DE DEUS - CONGREGAÇÃO GASPAR LOPES",
+      "cidade": "ALFENAS",
+      "bairro": "GASPAR LOPES",
+      "imagens": [],
+      "itens": []
+    },
+    {
+      "id": "igreja_m4",
+      "nome": "ASSEMBLEIA DE DEUS - CONGREGAÇÃO PINHEIRINHO",
+      "cidade": "ALFENAS",
+      "bairro": "PINHEIRNHO",
+      "imagens": [],
+      "itens": []
+    },
+    {
+      "id": "igreja_m5",
+      "nome": "ASSEMBLEIA DE DEUS - MISSÃO",
+      "cidade": "DIVISA NOVA",
+      "bairro": "CENTRO",
+      "imagens": [],
+      "itens": []
+    },
+    {
+      "id": "igreja_m6",
+      "nome": "ASSEMBLEIA DE DEUS - MISSÃO - SEDE",
+      "cidade": "SERRANIA",
+      "bairro": "CENTRO",
+      "imagens": [],
+      "itens": []
+    },
+    {
+      "id": "igreja_m7",
+      "nome": "ASSEMBLEIA DE DEUS - CONGREGAÇÃO SANTO ANTÔNIO",
+      "cidade": "SERRANIA",
+      "bairro": "SANTO ANTÔNIO",
+      "imagens": [],
+      "itens": [
+        {
+          "id": "item_m7_1",
+          "nome": "BANCOS DE MADEIRA",
+          "quantidade": 1,
+          "ids_individuais": ["0003"],
+          "imagens": []
+        }
+      ]
+    },
+    {
+      "id": "igreja_m8",
+      "nome": "ASSEMBLEIA DE DEUS - BAIRRO SERRINHA",
+      "cidade": "SERRANIA",
+      "bairro": "SERRINHA",
+      "imagens": [],
+      "itens": []
+    },
+    {
+      "id": "igreja_m9",
+      "nome": "ASSEMBLEIA DE DEUS - MISSÃO",
+      "cidade": "MACHADO",
+      "bairro": "JARDIM DAS OLIVEIRAS",
+      "imagens": [],
+      "itens": [
+        {
+          "id": "item_m9_1",
+          "nome": "AR CONDICIONADO",
+          "quantidade": 1,
+          "ids_individuais": ["0022"],
+          "imagens": []
+        }
+      ]
+    },
+    {
+      "id": "igreja_m10",
+      "nome": "ASSEMBLEIA DE DEUS - CONGREGAÇÃO VISTA GRANDE",
+      "cidade": "ALFENAS",
+      "bairro": "VISTA GRANDE",
+      "imagens": [],
+      "itens": []
+    },
+    {
+      "id": "igreja_m11",
+      "nome": "ASSEMBLEIA DE DEUS",
+      "cidade": "ALFENAS",
+      "bairro": "ASSEMBLEIA DE DEUS",
+      "imagens": [
+        "https://raw.githubusercontent.com/will3308/dados-igrejas/main/images/1758490305451-todas-036.JPG"
+      ],
+      "itens": []
+    },
+
+    {
+      "id": "igreja_m_sem",
+      "nome": "SEM IGREJA",
+      "cidade": "-",
+      "bairro": "-",
+      "imagens": [],
+      "itens": [
+        {
+          "id": "item_m_sem_1",
+          "nome": "dewdwedwe",
+          "quantidade": 1,
+          "ids_individuais": ["000001"],
+          "imagens": [
+            "https://raw.githubusercontent.com/will3308/dados-igrejas/main/images/1762552477622-teste.jpg"
+          ]
+        },
+        {
+          "id": "item_m_sem_2",
+          "nome": "wedwed",
+          "quantidade": 1,
+          "ids_individuais": ["1231231"],
+          "imagens": [
+            "https://raw.githubusercontent.com/will3308/dados-igrejas/main/images/1762552517894-relog1.png"
+          ]
+        }
+      ]
+    },
+
     {
       "id": "igreja_mi0nyep50ice",
       "nome": "Igreja Exemplo",
@@ -78,94 +160,10 @@
           "id": "item_mi0nz2fmfj71",
           "nome": "Banco exemplo",
           "quantidade": 1,
-          "ids_individuais": [
-            "025555"
-          ],
+          "ids_individuais": ["025555"],
           "imagens": []
         }
       ]
     }
-  ],
-  "itens": [
-    {
-      "igrejaId": 0,
-      "nome": "BANCOS DE MADEIRA",
-      "quantidade": 19,
-      "ids": [
-        "0001",
-        "0002",
-        "0004",
-        "0005",
-        "0006",
-        "0007",
-        "0008",
-        "0009",
-        "0010",
-        "0011",
-        "0012",
-        "0013",
-        "0014",
-        "0015",
-        "0016",
-        "0017",
-        "0018",
-        "0019",
-        "0020"
-      ]
-    },
-    {
-      "igrejaId": 0,
-      "nome": "AR CONDICIONADO",
-      "quantidade": 2,
-      "ids": [
-        "0021",
-        "0023"
-      ]
-    },
-    {
-      "igrejaId": 6,
-      "nome": "BANCOS DE MADEIRA",
-      "quantidade": 1,
-      "ids": [
-        "0003"
-      ]
-    },
-    {
-      "igrejaId": 8,
-      "nome": "AR CONDICIONADO",
-      "quantidade": 1,
-      "ids": [
-        "0022"
-      ]
-    },
-    {
-      "igrejaId": null,
-      "nome": "dewdwedwe",
-      "quantidade": 1,
-      "ids": [
-        "000001"
-      ],
-      "imagens": [
-        "https://raw.githubusercontent.com/will3308/dados-igrejas/main/images/1762552477622-teste.jpg"
-      ]
-    },
-    {
-      "igrejaId": null,
-      "nome": "wedwed",
-      "quantidade": 1,
-      "ids": [
-        "1231231"
-      ],
-      "imagens": [
-        "https://raw.githubusercontent.com/will3308/dados-igrejas/main/images/1762552517894-relog1.png"
-      ]
-    }
-  ],
-  "_sha": "5f94c4c0462901b6b35b83338a8cf2c67d8f3a13",
-  "_lastOps": [
-    "[15/11/2025, 16:12:39] Adicionado item Banco exemplo (item_mi0nz2fmfj71) em Igreja Exemplo com IDs: 025555",
-    "[15/11/2025, 16:12:08] Adicionado igreja Igreja Exemplo (igreja_mi0nyep50ice) — Alfenas/Centro",
-    "[15/11/2025, 16:04:18] Removida igreja teste (1)",
-    "[15/11/2025, 15:59:26] Adicionado igreja teste (1)"
   ]
 }
