@@ -103,6 +103,19 @@
             "images/1763231649799_igreja_mi0mj8pswyck_001,002,003_0.png",
             "images/1763231651108_igreja_mi0mj8pswyck_001,002,003_1.png"
           ]
+        },
+        {
+          "id": "item_mi0n1f7dq5a3",
+          "nome": "bancodefre",
+          "quantidade": 3,
+          "ids_individuais": [
+            "0010",
+            "0012",
+            "0013"
+          ],
+          "imagens": [
+            "images/1763232389689_igreja_mi0mkczkit2h_item_mi0n1f7dq5a3_0.jpg"
+          ]
         }
       ]
     },
@@ -187,8 +200,9 @@
       ]
     }
   ],
-  "_sha": "33a9f07906515213cb9a644e21e442af1106168a",
+  "_sha": "7056b92d71ca04629549f959ab03b55dd0b22f2b",
   "_lastOps": [
+    "[15/11/2025, 15:46:31] Adicionado item bancodefre (item_mi0n1f7dq5a3) em testando2 com IDs: 0010,0012,0013",
     "[15/11/2025, 15:45:53] Adicionado igreja Sao Jofe (igreja_mi0n0nih6sul)",
     "[15/11/2025, 15:34:45] Transferido 1 x banco de Testando Igreja para testando2",
     "[15/11/2025, 15:34:12] Adicionado item banco (001,002,003) em Testando Igreja",
