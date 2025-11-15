@@ -73,7 +73,17 @@
       "nome": "Igreja Exemplo",
       "cidade": "Alfenas",
       "bairro": "Centro",
-      "itens": []
+      "itens": [
+        {
+          "id": "item_mi0nz2fmfj71",
+          "nome": "Banco exemplo",
+          "quantidade": 1,
+          "ids_individuais": [
+            "025555"
+          ],
+          "imagens": []
+        }
+      ]
     }
   ],
   "itens": [
@@ -151,8 +161,9 @@
       ]
     }
   ],
-  "_sha": "4a74387ddf330918ec033a83bd5d0faf41287dce",
+  "_sha": "5f94c4c0462901b6b35b83338a8cf2c67d8f3a13",
   "_lastOps": [
+    "[15/11/2025, 16:12:39] Adicionado item Banco exemplo (item_mi0nz2fmfj71) em Igreja Exemplo com IDs: 025555",
     "[15/11/2025, 16:12:08] Adicionado igreja Igreja Exemplo (igreja_mi0nyep50ice) — Alfenas/Centro",
     "[15/11/2025, 16:04:18] Removida igreja teste (1)",
     "[15/11/2025, 15:59:26] Adicionado igreja teste (1)"
