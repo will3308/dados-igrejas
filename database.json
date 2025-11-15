@@ -3,43 +3,43 @@
     {
       "cidade": "ALFENAS",
       "bairro": "CENTRO",
-      "nome": "ASSEMBLEIA DE DEUS - MISSÃO - SEDE",
+      "nome": "ASSEMBLEIA DE DEUS - MISSÃÂO - SEDE",
       "imagensUrls": []
     },
     {
       "cidade": "ALFENAS",
       "bairro": "JARDIM EUNICE",
-      "nome": "ASSEMBLEIA DE DEUS - CONGREGAÃÃO JARDIM EUNICE",
+      "nome": "ASSEMBLEIA DE DEUS - CONGREGAÃÂÃÂO JARDIM EUNICE",
       "imagensUrls": []
     },
     {
       "cidade": "ALFENAS",
       "bairro": "GASPAR LOPES",
-      "nome": "ASSEMBLEIA DE DEUS - CONGREGAÃÃO GASPAR LOPES",
+      "nome": "ASSEMBLEIA DE DEUS - CONGREGAÃÂÃÂO GASPAR LOPES",
       "imagensUrls": []
     },
     {
       "cidade": "ALFENAS",
       "bairro": "PINHEIRNHO",
-      "nome": "ASSEMBLEIA DE DEUS - CONGREGAÃÃO PINHEIRINHO",
+      "nome": "ASSEMBLEIA DE DEUS - CONGREGAÃÂÃÂO PINHEIRINHO",
       "imagensUrls": []
     },
     {
       "cidade": "DIVISA NOVA",
       "bairro": "CENTRO",
-      "nome": "ASSEMBLEIA DE DEUS - MISSÃO",
+      "nome": "ASSEMBLEIA DE DEUS - MISSÃÂO",
       "imagensUrls": []
     },
     {
       "cidade": "SERRANIA",
       "bairro": "CENTRO",
-      "nome": "ASSEMBLEIA DE DEUS - MISSÃO - SEDE",
+      "nome": "ASSEMBLEIA DE DEUS - MISSÃÂO - SEDE",
       "imagensUrls": []
     },
     {
       "cidade": "SERRANIA",
-      "bairro": "SANTO ANTÃNIO",
-      "nome": "ASSEMBLEIA DE DEUS - CONGREGAÃÃO SANTO ANTÃNIO",
+      "bairro": "SANTO ANTÃÂNIO",
+      "nome": "ASSEMBLEIA DE DEUS - CONGREGAÃÂÃÂO SANTO ANTÃÂNIO",
       "imagensUrls": []
     },
     {
@@ -51,13 +51,13 @@
     {
       "cidade": "MACHADO",
       "bairro": "JARDIM DAS OLIVEIRAS",
-      "nome": "ASSEMBLEIA DE DEUS - MISSÃO",
+      "nome": "ASSEMBLEIA DE DEUS - MISSÃÂO",
       "imagensUrls": []
     },
     {
       "cidade": "ALFENAS",
       "bairro": "VISTA GRANDE",
-      "nome": "ASSEMBLEIA DE DEUS - CONGREGAÃÃO VISTA GRANDE",
+      "nome": "ASSEMBLEIA DE DEUS - CONGREGAÃÂÃÂO VISTA GRANDE",
       "imagensUrls": []
     },
     {
@@ -105,6 +105,11 @@
           ]
         }
       ]
+    },
+    {
+      "id": "igreja_mi0n0nih6sul",
+      "nome": "Sao Jofe",
+      "itens": []
     }
   ],
   "itens": [
@@ -182,8 +187,9 @@
       ]
     }
   ],
-  "_sha": "ffa36c72bedc7e95c860a09339a7203f61e0123b",
+  "_sha": "33a9f07906515213cb9a644e21e442af1106168a",
   "_lastOps": [
+    "[15/11/2025, 15:45:53] Adicionado igreja Sao Jofe (igreja_mi0n0nih6sul)",
     "[15/11/2025, 15:34:45] Transferido 1 x banco de Testando Igreja para testando2",
     "[15/11/2025, 15:34:12] Adicionado item banco (001,002,003) em Testando Igreja",
     "[15/11/2025, 15:33:13] Adicionado igreja testando2 (igreja_mi0mkczkit2h)",
