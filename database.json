@@ -81,6 +81,11 @@
           ]
         }
       ]
+    },
+    {
+      "id": "igreja_mi0mkczkit2h",
+      "nome": "testando2",
+      "itens": []
     }
   ],
   "itens": [
@@ -158,8 +163,9 @@
       ]
     }
   ],
-  "_sha": "71a526752ed8c816c3316f4f36b5d63921e927dc",
+  "_sha": "719b1ee5311e685f209fb911bb2396ac6a7a8cc1",
   "_lastOps": [
+    "[15/11/2025, 15:33:13] Adicionado igreja testando2 (igreja_mi0mkczkit2h)",
     "[15/11/2025, 15:32:42] Adicionado item dqdqwd (item_mi0mjnu03hpv) em Testando Igreja",
     "[15/11/2025, 15:32:21] Adicionado igreja Testando Igreja (igreja_mi0mj8pswyck)"
   ]
