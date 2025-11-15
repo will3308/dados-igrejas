@@ -147,27 +147,11 @@
         "https://raw.githubusercontent.com/will3308/dados-igrejas/main/images/1758490305451-todas-036.JPG"
       ],
       "itens": []
-    },
-    {
-      "id": "igreja_mi0nyep50ice",
-      "nome": "Igreja Exemplo",
-      "cidade": "Alfenas",
-      "bairro": "Centro",
-      "itens": [
-        {
-          "id": "item_mi0nz2fmfj71",
-          "nome": "Banco exemplo",
-          "quantidade": 1,
-          "ids_individuais": [
-            "025555"
-          ],
-          "imagens": []
-        }
-      ]
     }
   ],
-  "_sha": "d39827299ab447eb4d25001b5c0da978bdec7891",
+  "_sha": "702e43e5fdbaaea2da4f5042de0a73766002b0cd",
   "_lastOps": [
+    "[15/11/2025, 16:21:05] Removida igreja Igreja Exemplo (igreja_mi0nyep50ice)",
     "[15/11/2025, 16:21:03] Removida igreja SEM IGREJA (igreja_m_sem)"
   ]
 }
