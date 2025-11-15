@@ -32,7 +32,11 @@
             "0019",
             "0020"
           ],
-          "imagens": []
+          "imagens": [
+            "images/1763234476218_igreja_m1_item_m1_1_0.png",
+            "images/1763234477223_igreja_m1_item_m1_1_1.png",
+            "images/1763234478298_igreja_m1_item_m1_1_2.jpg"
+          ]
         },
         {
           "id": "item_m1_2",
@@ -149,8 +153,11 @@
       "itens": []
     }
   ],
-  "_sha": "702e43e5fdbaaea2da4f5042de0a73766002b0cd",
+  "_sha": "b68e7b209dff3b2ba692c260ef4e39c1314043c8",
   "_lastOps": [
+    "[15/11/2025, 16:21:19] Enviada imagem images/1763234478298_igreja_m1_item_m1_1_2.jpg",
+    "[15/11/2025, 16:21:18] Enviada imagem images/1763234477223_igreja_m1_item_m1_1_1.png",
+    "[15/11/2025, 16:21:17] Enviada imagem images/1763234476218_igreja_m1_item_m1_1_0.png",
     "[15/11/2025, 16:21:05] Removida igreja Igreja Exemplo (igreja_mi0nyep50ice)",
     "[15/11/2025, 16:21:03] Removida igreja SEM IGREJA (igreja_m_sem)"
   ]
