@@ -71,7 +71,16 @@
     {
       "id": "igreja_mi0mj8pswyck",
       "nome": "Testando Igreja",
-      "itens": []
+      "itens": [
+        {
+          "id": "item_mi0mjnu03hpv",
+          "nome": "dqdqwd",
+          "quantidade": 1,
+          "imagens": [
+            "images/1763231561064_igreja_mi0mj8pswyck_item_mi0mjnu03hpv_0.jpg"
+          ]
+        }
+      ]
     }
   ],
   "itens": [
@@ -149,8 +158,9 @@
       ]
     }
   ],
-  "_sha": "0192ff7869e598dd77639ca7d6c6e1478dcaf3f7",
+  "_sha": "71a526752ed8c816c3316f4f36b5d63921e927dc",
   "_lastOps": [
+    "[15/11/2025, 15:32:42] Adicionado item dqdqwd (item_mi0mjnu03hpv) em Testando Igreja",
     "[15/11/2025, 15:32:21] Adicionado igreja Testando Igreja (igreja_mi0mj8pswyck)"
   ]
 }
