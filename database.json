@@ -62,7 +62,17 @@
       "cidade": "ALFENAS",
       "bairro": "GASPAR LOPES",
       "imagens": [],
-      "itens": []
+      "itens": [
+        {
+          "id": "item_mi1woz6v5xgh",
+          "nome": "VENTILADOR",
+          "quantidade": 1,
+          "ids_individuais": [
+            "050"
+          ],
+          "imagens": []
+        }
+      ]
     },
     {
       "id": "igreja_m4",
@@ -82,9 +92,8 @@
         {
           "id": "item_mi1woz6v5xgh",
           "nome": "VENTILADOR",
-          "quantidade": 3,
+          "quantidade": 2,
           "ids_individuais": [
-            "050",
             "051",
             "052"
           ],
@@ -163,8 +172,9 @@
       "itens": []
     }
   ],
-  "_sha": "726ebbab15a0386463a00676c9efe685263fdc64",
+  "_sha": "3870815a249882945a5ace9645dcb242dec7e180",
   "_lastOps": [
+    "[16/11/2025, 13:06:01] Transferido ID 050 (VENTILADOR) de ASSEMBLEIA DE DEUS - DIVISA NOVA para ASSEMBLEIA DE DEUS - CONGREGAÇÃO GASPAR LOPES",
     "[16/11/2025, 13:05:02] Adicionado item MICROFONE (item_mi1wpmxq5k0q) em ASSEMBLEIA DE DEUS - DIVISA NOVA com IDs: 054,055,056",
     "[16/11/2025, 13:04:31] Adicionado item VENTILADOR (item_mi1woz6v5xgh) em ASSEMBLEIA DE DEUS - DIVISA NOVA com IDs: 050,051,052",
     "[16/11/2025, 13:03:41] Editado igreja igreja_m8 → ASSEMBLEIA DE DEUS - SERRANIA (SERRINHA) (SERRANIA/SERRINHA)",
