@@ -108,7 +108,7 @@
     },
     {
       "id": "igreja_m8",
-      "nome": "ASSEMBLEIA DE DEUS - SERRABIA (SERRINHA)",
+      "nome": "ASSEMBLEIA DE DEUS - SERRANIA (SERRINHA)",
       "cidade": "SERRANIA",
       "bairro": "SERRINHA",
       "imagens": [],
@@ -140,8 +140,9 @@
       "itens": []
     }
   ],
-  "_sha": "ed2659e50252018893750d41889bfcf681883670",
+  "_sha": "46b9b50a977b84fceda2c83fbc7867d2d0400543",
   "_lastOps": [
+    "[16/11/2025, 13:03:41] Editado igreja igreja_m8 → ASSEMBLEIA DE DEUS - SERRANIA (SERRINHA) (SERRANIA/SERRINHA)",
     "[16/11/2025, 13:03:20] Editado igreja igreja_m8 → ASSEMBLEIA DE DEUS - SERRABIA (SERRINHA) (SERRANIA/SERRINHA)",
     "[16/11/2025, 13:02:51] Editado igreja igreja_m7 → ASSEMBLEIA DE DEUS -  SERRANIA (CONGREGAÇÃO SANTO ANTÔNIO) (SERRANIA/SANTO ANTÔNIO)",
     "[16/11/2025, 13:02:18] Adicionado igreja ASSEMBLÉIA DE DEUS - MACHADO (igreja_mi1wm4v3h8kg) — MACGADI/JD DAS OLIVIERAS",
