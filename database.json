@@ -125,24 +125,6 @@
       ]
     },
     {
-      "id": "igreja_m9",
-      "nome": "ASSEMBLEIA DE DEUS - MISSÃO",
-      "cidade": "MACHADO",
-      "bairro": "JARDIM DAS OLIVEIRAS",
-      "imagens": [],
-      "itens": [
-        {
-          "id": "item_m9_1",
-          "nome": "AR CONDICIONADO",
-          "quantidade": 1,
-          "ids_individuais": [
-            "0022"
-          ],
-          "imagens": []
-        }
-      ]
-    },
-    {
       "id": "igreja_m10",
       "nome": "ASSEMBLEIA DE DEUS - CONGREGAÇÃO VISTA GRANDE",
       "cidade": "ALFENAS",
@@ -161,8 +143,9 @@
       "itens": []
     }
   ],
-  "_sha": "a9441c7b070d284131184c5464709ba3e2e993c3",
+  "_sha": "7449e82dbd30ff95ac03c04a6b4798ee50b19e47",
   "_lastOps": [
+    "[16/11/2025, 13:00:27] Removida igreja ASSEMBLEIA DE DEUS - MISSÃO (igreja_m9)",
     "[16/11/2025, 12:47:47] Adicionado item ventilador (item_mi1w3gibssz1) em ASSEMBLEIA DE DEUS - BAIRRO SERRINHA com IDs: 010",
     "[15/11/2025, 16:44:09] Removida imagem images/1763234477223_igreja_m1_item_m1_1_1.png do item item_m1_1",
     "[15/11/2025, 16:44:01] Removida imagem images/1763234476218_igreja_m1_item_m1_1_0.png do item item_m1_1",
