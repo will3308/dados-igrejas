@@ -90,7 +90,7 @@
     },
     {
       "id": "igreja_m7",
-      "nome": "ASSEMBLEIA DE DEUS - CONGREGAÇÃO SANTO ANTÔNIO",
+      "nome": "ASSEMBLEIA DE DEUS -  SERRANIA (CONGREGAÇÃO SANTO ANTÔNIO)",
       "cidade": "SERRANIA",
       "bairro": "SANTO ANTÔNIO",
       "imagens": [],
@@ -140,8 +140,9 @@
       "itens": []
     }
   ],
-  "_sha": "58e6bddc6314aec0f390b762f9957316babac930",
+  "_sha": "6b70eae1788fe5fd18c2c04852a3ea76c6d0b5f2",
   "_lastOps": [
+    "[16/11/2025, 13:02:51] Editado igreja igreja_m7 → ASSEMBLEIA DE DEUS -  SERRANIA (CONGREGAÇÃO SANTO ANTÔNIO) (SERRANIA/SANTO ANTÔNIO)",
     "[16/11/2025, 13:02:18] Adicionado igreja ASSEMBLÉIA DE DEUS - MACHADO (igreja_mi1wm4v3h8kg) — MACGADI/JD DAS OLIVIERAS",
     "[16/11/2025, 13:01:26] Editado igreja igreja_m6 → ASSEMBLEIA DE DEUS - SERRANIA - SEDE (SERRANIA/CENTRO)",
     "[16/11/2025, 13:01:09] Editado igreja igreja_m5 → ASSEMBLEIA DE DEUS - DIVISA NOVA (DIVISA NOVA/CENTRO)",
