@@ -112,7 +112,17 @@
       "cidade": "SERRANIA",
       "bairro": "SERRINHA",
       "imagens": [],
-      "itens": []
+      "itens": [
+        {
+          "id": "item_mi1w3gibssz1",
+          "nome": "ventilador",
+          "quantidade": 1,
+          "ids_individuais": [
+            "010"
+          ],
+          "imagens": []
+        }
+      ]
     },
     {
       "id": "igreja_m9",
@@ -151,8 +161,9 @@
       "itens": []
     }
   ],
-  "_sha": "9b2ceb6d2759c34f99782ad1b0c9154e8f5163b6",
+  "_sha": "a9441c7b070d284131184c5464709ba3e2e993c3",
   "_lastOps": [
+    "[16/11/2025, 12:47:47] Adicionado item ventilador (item_mi1w3gibssz1) em ASSEMBLEIA DE DEUS - BAIRRO SERRINHA com IDs: 010",
     "[15/11/2025, 16:44:09] Removida imagem images/1763234477223_igreja_m1_item_m1_1_1.png do item item_m1_1",
     "[15/11/2025, 16:44:01] Removida imagem images/1763234476218_igreja_m1_item_m1_1_0.png do item item_m1_1",
     "[15/11/2025, 16:21:19] Enviada imagem images/1763234478298_igreja_m1_item_m1_1_2.jpg",
