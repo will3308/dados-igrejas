@@ -89,6 +89,17 @@
             "052"
           ],
           "imagens": []
+        },
+        {
+          "id": "item_mi1wpmxq5k0q",
+          "nome": "MICROFONE",
+          "quantidade": 3,
+          "ids_individuais": [
+            "054",
+            "055",
+            "056"
+          ],
+          "imagens": []
         }
       ]
     },
@@ -152,8 +163,9 @@
       "itens": []
     }
   ],
-  "_sha": "53d2a480b2f153184c2e98b6b43515fcbb79c128",
+  "_sha": "726ebbab15a0386463a00676c9efe685263fdc64",
   "_lastOps": [
+    "[16/11/2025, 13:05:02] Adicionado item MICROFONE (item_mi1wpmxq5k0q) em ASSEMBLEIA DE DEUS - DIVISA NOVA com IDs: 054,055,056",
     "[16/11/2025, 13:04:31] Adicionado item VENTILADOR (item_mi1woz6v5xgh) em ASSEMBLEIA DE DEUS - DIVISA NOVA com IDs: 050,051,052",
     "[16/11/2025, 13:03:41] Editado igreja igreja_m8 → ASSEMBLEIA DE DEUS - SERRANIA (SERRINHA) (SERRANIA/SERRINHA)",
     "[16/11/2025, 13:03:20] Editado igreja igreja_m8 → ASSEMBLEIA DE DEUS - SERRABIA (SERRINHA) (SERRANIA/SERRINHA)",
