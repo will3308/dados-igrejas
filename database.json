@@ -131,10 +131,18 @@
       "bairro": "VISTA GRANDE",
       "imagens": [],
       "itens": []
+    },
+    {
+      "id": "igreja_mi1wm4v3h8kg",
+      "nome": "ASSEMBLÉIA DE DEUS - MACHADO",
+      "cidade": "MACGADI",
+      "bairro": "JD DAS OLIVIERAS",
+      "itens": []
     }
   ],
-  "_sha": "30cdadaf45c278b21ac84c59eaab63e93d40fd8e",
+  "_sha": "58e6bddc6314aec0f390b762f9957316babac930",
   "_lastOps": [
+    "[16/11/2025, 13:02:18] Adicionado igreja ASSEMBLÉIA DE DEUS - MACHADO (igreja_mi1wm4v3h8kg) — MACGADI/JD DAS OLIVIERAS",
     "[16/11/2025, 13:01:26] Editado igreja igreja_m6 → ASSEMBLEIA DE DEUS - SERRANIA - SEDE (SERRANIA/CENTRO)",
     "[16/11/2025, 13:01:09] Editado igreja igreja_m5 → ASSEMBLEIA DE DEUS - DIVISA NOVA (DIVISA NOVA/CENTRO)",
     "[16/11/2025, 13:00:36] Removida igreja ASSEMBLEIA DE DEUS (igreja_m11)",
