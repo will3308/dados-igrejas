@@ -82,7 +82,7 @@
     },
     {
       "id": "igreja_m6",
-      "nome": "ASSEMBLEIA DE DEUS - MISSÃO - SEDE",
+      "nome": "ASSEMBLEIA DE DEUS - SERRANIA - SEDE",
       "cidade": "SERRANIA",
       "bairro": "CENTRO",
       "imagens": [],
@@ -133,8 +133,9 @@
       "itens": []
     }
   ],
-  "_sha": "46a2f2a85404d980938ba2807caf16ed84dc317d",
+  "_sha": "30cdadaf45c278b21ac84c59eaab63e93d40fd8e",
   "_lastOps": [
+    "[16/11/2025, 13:01:26] Editado igreja igreja_m6 → ASSEMBLEIA DE DEUS - SERRANIA - SEDE (SERRANIA/CENTRO)",
     "[16/11/2025, 13:01:09] Editado igreja igreja_m5 → ASSEMBLEIA DE DEUS - DIVISA NOVA (DIVISA NOVA/CENTRO)",
     "[16/11/2025, 13:00:36] Removida igreja ASSEMBLEIA DE DEUS (igreja_m11)",
     "[16/11/2025, 13:00:27] Removida igreja ASSEMBLEIA DE DEUS - MISSÃO (igreja_m9)",
